@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Invoice Generator",
+  "description": "An AI-powered invoice generator that helps you create, track, and manage invoices with ease. Leverage Gemini to generate item descriptions, draft professional emails, and get suggestions for improving your invoices.",
+  "requestFramePermissions": []
+}
